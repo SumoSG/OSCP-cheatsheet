@@ -4,7 +4,7 @@
 * Read the [OSCP dos and don'ts](https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide)
 * Practice taking screenshot while you hack
 * Get a document file ready to paste your walkthrough screenshots
-* 1. Recon/Enumeration 2. Initial Access 3. File Transfer 4.Privilege Escalation 5. Post Exploitation   
+*  1. Recon/Enumeration 2. Initial Access 3. File Transfer 4.Privilege Escalation 5. Post Exploitation   
 
 ## 1. Recon/Enumeration
 
